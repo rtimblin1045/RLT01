@@ -1,0 +1,20 @@
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\bin\Debug\PC Organizer 1.0.exe
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\bin\Debug\PC Organizer 1.0.pdb
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\bin\Debug\PC Organizer 1.0.xml
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\obj\Debug\PC_Organizer_1._0.Form1.resources
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\obj\Debug\PC_Organizer_1._0.Resources.resources
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\obj\Debug\PC Organizer 1.0.vbproj.GenerateResource.Cache
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\obj\Debug\PC Organizer 1.0.exe
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\obj\Debug\PC Organizer 1.0.xml
+C:\Users\Pastor Randall\AppData\Local\Temporary Projects\PC Organizer 1.0\obj\Debug\PC Organizer 1.0.pdb
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\obj\Debug\PC Organizer 1.0.exe
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\obj\Debug\PC Organizer 1.0.xml
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\obj\Debug\PC Organizer 1.0.pdb
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\bin\Debug\PC Organizer 1.0.exe
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\bin\Debug\PC Organizer 1.0.pdb
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\bin\Debug\PC Organizer 1.0.xml
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\obj\Debug\PC_Organizer_1._0.Form1.resources
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\obj\Debug\PC_Organizer_1._0.Resources.resources
+C:\Users\Pastor Randall\Documents\Visual Studio 2008\Projects\PC Organizer 1.0\PC Organizer 1.0\obj\Debug\PC Organizer 1.0.vbproj.GenerateResource.Cache
